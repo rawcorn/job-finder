@@ -1,0 +1,15 @@
+KEYWORDS = [
+    "accounting",
+    "accountant",
+    "bookkeeper",
+    "bookkeeping",
+    "accounts payable",
+    "accounts receivable",
+    "payroll",
+    "finance",
+    "finance assistant",
+    "staff accountant",
+    "controller",
+    "audit",
+    "tax",
+]
