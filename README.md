@@ -1,6 +1,6 @@
 # Job Finder
 
-Remote job scraping bot that automatically collects, filters, scores, and exports new remote jobs from multiple job boards.
+Remote job scraping bot that automatically collects, filters, scores, and exports new remote jobs from multiple job boards, with automatic XLSX export.
 
 ## Supported Websites
 
@@ -49,9 +49,9 @@ Each execution generates a new CSV file containing only newly discovered jobs.
 Example:
 
 ```text
-new_jobs.csv
-new_jobs(1).csv
-new_jobs(2).csv
+new_jobs.xlsx
+new_jobs(1).xlsx
+new_jobs(2).xlsx
 ```
 
 ## Database
